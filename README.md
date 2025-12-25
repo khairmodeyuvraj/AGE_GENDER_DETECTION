@@ -1,4 +1,5 @@
 #Age & Gender Detection with Long Hair Identification
+
 📌 Project Overview
 
 This project is an Age and Gender Detection system built using Deep Learning and Computer Vision. It predicts a person’s age and gender from facial images and provides results through an interactive Streamlit-based graphical user interface (GUI).
