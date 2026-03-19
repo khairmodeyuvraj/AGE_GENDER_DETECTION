@@ -87,9 +87,35 @@ This project consists of multiple AI-based modules:
 
 ---
 
-## 💻 How to Run
+## 💻 How to Run the Project
 
-1. Clone the repository:
+Follow the steps below to run this project on your system:
+
+---
+
+### 🔹 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AGE_GENDER_DETECTION.git
+git clone https://github.com/khairmodeyuvraj/AGE_GENDER_DETECTION.git
+
+## 💻 How to Run the Project
+
+Follow the steps below to run this project on your system:
+
+---
+
+### 🔹 1. Clone the Repository
+
+```bash
+git clone https://github.com/khairmodeyuvraj/AGE_GENDER_DETECTION.git
+
+2. Navigate to Project Folder
+cd AGE_GENDER_DETECTION
+
+3. Install Required Dependencies
+
+Make sure Python is installed (recommended Python 3.8+)
+
+Install all required libraries:
+
+pip install -r requirements.txt
