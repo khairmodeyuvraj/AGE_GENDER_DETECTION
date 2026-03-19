@@ -97,25 +97,3 @@ Follow the steps below to run this project on your system:
 
 ```bash
 git clone https://github.com/khairmodeyuvraj/AGE_GENDER_DETECTION.git
-
-## 💻 How to Run the Project
-
-Follow the steps below to run this project on your system:
-
----
-
-### 🔹 1. Clone the Repository
-
-```bash
-git clone https://github.com/khairmodeyuvraj/AGE_GENDER_DETECTION.git
-
-2. Navigate to Project Folder
-cd AGE_GENDER_DETECTION
-
-3. Install Required Dependencies
-
-Make sure Python is installed (recommended Python 3.8+)
-
-Install all required libraries:
-
-pip install -r requirements.txt
