@@ -1,4 +1,4 @@
-# AGE_GENDER_DETECTION
+<img width="1048" height="262" alt="image" src="https://github.com/user-attachments/assets/740cff97-3d8d-4a06-9a15-7fe9dfadebc0" /><img width="1048" height="262" alt="image" src="https://github.com/user-attachments/assets/a8e73aad-3e06-461b-a304-4e47267ac213" /># AGE_GENDER_DETECTION
 
 A comprehensive AI-based multi-task detection system developed using Python, OpenCV, TensorFlow/Keras, and Streamlit. This project integrates multiple computer vision and machine learning applications with real-time processing and GUI support.
 
@@ -97,4 +97,12 @@ Follow the steps below to run this project on your system:
 
 ```bash
 git clone https://github.com/khairmodeyuvraj/AGE_GENDER_DETECTION.git
-
+```
+###🔹 2. Navigate to Project Folder
+```bash
+cd AGE_GENDER_DETECTION
+```
+###🔹 3. Install Required Dependencies
+```bash
+pip install -r requirements.txt
+```
