@@ -98,11 +98,11 @@ Follow the steps below to run this project on your system:
 ```bash
 git clone https://github.com/khairmodeyuvraj/AGE_GENDER_DETECTION.git
 ```
-###🔹 2. Navigate to Project Folder
+### 🔹 2. Navigate to Project Folder
 ```bash
 cd AGE_GENDER_DETECTION
 ```
-###🔹 3. Install Required Dependencies
+### 🔹 3. Install Required Dependencies
 ```bash
 pip install -r requirements.txt
 ```
