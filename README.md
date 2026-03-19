@@ -106,3 +106,40 @@ cd AGE_GENDER_DETECTION
 ```bash
 pip install -r requirements.txt
 ```
+### 🔹4. Run Streamlit Applications
+
+### ▶️ Task 1: Age & Gender Detection
+```bash
+cd Task 1
+streamlit run app.py
+```
+### ▶️ Task 2: Senior Citizen Identification
+```bash
+cd Task 2
+streamlit run app.py
+```
+### ▶️ Task 3: Voice-Based Detection
+```bash
+cd Task 3
+streamlit run app.py
+```
+### ▶️ Task 4: Sign Language Detection
+```bash
+cd Task 4
+streamlit run app.py
+```
+### ▶️ Task 5: Car Colour Detection
+```bash
+cd Task 5
+streamlit run app.py
+```
+### ▶️ Task 6: Nationality Detection
+```bash
+cd Task 6
+streamlit run app.py
+```
+### 🔹 5. Open in Browser
+After running the command, Streamlit will automatically open in your browser:
+```bash
+http://localhost:8501
+```
